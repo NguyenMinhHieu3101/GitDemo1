@@ -8,8 +8,10 @@ namespace GitDemo1
 {
     internal class Class1
     {
-        public string Name { get; set; }
-        public string Description { get; set; }
-           
+
+        public string Test { get; set; }
+
+        public string Name { get; set;      
+        public string Hihi { get; set; }
     }
 }
